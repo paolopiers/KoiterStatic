@@ -1,0 +1,8 @@
+If you intend to use or modify this code, please cite the following paper.
+
+@article{DPSY2023,
+    author={Duan, W and Piersanti, P and Shen, X and Yang, Q},
+    title={Numerical corroboration of Koiter's model for all the main types of linearly elastic shells in the static case},
+    journal={Math. Mech. Solids},
+    year={To appear}
+}
